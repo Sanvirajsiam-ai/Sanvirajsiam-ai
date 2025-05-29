@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sanviraj Aynul Siam
 - 👀 I’m interested in Data Science, Data Analytics, Graphic Design
 - 🌱 I’m currently learning Data Visualization tools Exel and Power BI
-- 💞️ I’m looking to collaborate on any Software Or IT company
+- 💞️ I’m looking to collaborate on any Software or IT company
 - 📫 How to reach me Email: sanvirajsiam12149@gmail.com      WhatsApp: 01795633858
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
