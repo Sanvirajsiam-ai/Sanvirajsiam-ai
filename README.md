@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sanvirajsiam-ai
+- 👋 Hi, I’m Sanviraj Aynul Siam
 - 👀 I’m interested in Data Science, Data Analytics, Graphic Design
 - 🌱 I’m currently learning Data Visualization tools Exel and Power BI
 - 💞️ I’m looking to collaborate on any Software Or IT company
