@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any Software or IT company
 - 📫 How to reach me Email: sanvirajsiam12149@gmail.com      WhatsApp: 01795633858
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+
 
 <!---
 Sanvirajsiam-ai/Sanvirajsiam-ai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
